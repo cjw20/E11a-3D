@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockHalf.obj-8f3364c8805f28068768688cf8c8fe66.mesh"
+
+[deps]
+
+files=[ "res://.import/blockHalf.obj-8f3364c8805f28068768688cf8c8fe66.mesh" ]
+
+source_file="res://Models/OBJ format/blockHalf.obj"
+dest_files=[ "res://.import/blockHalf.obj-8f3364c8805f28068768688cf8c8fe66.mesh", "res://.import/blockHalf.obj-8f3364c8805f28068768688cf8c8fe66.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

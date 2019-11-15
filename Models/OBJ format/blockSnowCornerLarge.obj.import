@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockSnowCornerLarge.obj-cdb0f050b628596b07ca8db56d9867a6.mesh"
+
+[deps]
+
+files=[ "res://.import/blockSnowCornerLarge.obj-cdb0f050b628596b07ca8db56d9867a6.mesh" ]
+
+source_file="res://Models/OBJ format/blockSnowCornerLarge.obj"
+dest_files=[ "res://.import/blockSnowCornerLarge.obj-cdb0f050b628596b07ca8db56d9867a6.mesh", "res://.import/blockSnowCornerLarge.obj-cdb0f050b628596b07ca8db56d9867a6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

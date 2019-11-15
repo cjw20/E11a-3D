@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sign.obj-a625f00da640fe92b0416356fda0d6bf.mesh"
+
+[deps]
+
+files=[ "res://.import/sign.obj-a625f00da640fe92b0416356fda0d6bf.mesh" ]
+
+source_file="res://Models/OBJ format/sign.obj"
+dest_files=[ "res://.import/sign.obj-a625f00da640fe92b0416356fda0d6bf.mesh", "res://.import/sign.obj-a625f00da640fe92b0416356fda0d6bf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

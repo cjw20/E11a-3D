@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/fenceLowCorner_SW.png-854b90d3b86d06e8f86c6e740757cabf.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Isometric/fenceLowCorner_SW.png"
+dest_files=[ "res://.import/fenceLowCorner_SW.png-854b90d3b86d06e8f86c6e740757cabf.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

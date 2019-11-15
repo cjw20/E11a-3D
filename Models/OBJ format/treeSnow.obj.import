@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/treeSnow.obj-917295426200c537d4c032c3a684c55c.mesh"
+
+[deps]
+
+files=[ "res://.import/treeSnow.obj-917295426200c537d4c032c3a684c55c.mesh" ]
+
+source_file="res://Models/OBJ format/treeSnow.obj"
+dest_files=[ "res://.import/treeSnow.obj-917295426200c537d4c032c3a684c55c.mesh", "res://.import/treeSnow.obj-917295426200c537d4c032c3a684c55c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
